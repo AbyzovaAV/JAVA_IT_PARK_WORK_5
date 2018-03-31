@@ -34,7 +34,7 @@ public class Main {
                     for (int i = a; i > 0; i--){
                         int b = scanner.nextInt();
                         System.out.print(b + " ");
-                        sum = sum + i;
+                        sum = sum + b;
                         }
                     System.out.print(sum);
                     System.out.println(" ");
