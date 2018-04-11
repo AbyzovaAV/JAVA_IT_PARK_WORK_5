@@ -35,7 +35,6 @@ public class RationalNumber {
     }
 
     public void optimize() {
-        System.out.println();
+
     }
-}//запуталась
- //чутьПозжеПеределаю
+}
